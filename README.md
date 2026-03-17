@@ -26,4 +26,4 @@ python main.py
 本项目采用 Apache 2.0 许可证。详情请参见 LICENSE 文件。
 
 ## 注意
-该版本未seedance未调整版本
+该版本为seedance未调整版本
