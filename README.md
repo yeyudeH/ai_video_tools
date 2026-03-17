@@ -17,6 +17,11 @@ pip install requirements.txt
 
 配置对应key
 
+四.
+```
+python main.py
+```
+
 ## 开源许可证
 本项目采用 Apache 2.0 许可证。详情请参见 LICENSE 文件。
 
